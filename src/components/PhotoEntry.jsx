@@ -1,9 +1,10 @@
+/*
 class PhotoEntry extends React.Component {
   constructor(props) {
     super(props);
 
     this.state = {
-
+      visible: false
     };
   }
 
@@ -12,6 +13,7 @@ class PhotoEntry extends React.Component {
       <div>Text Goes Here!</div>
     );
   }
-};
+}; 
 
 window.PhotoEntry = PhotoEntry;
+*/

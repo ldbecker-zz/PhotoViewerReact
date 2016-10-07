@@ -1,3 +1,4 @@
+/*
 class App extends React.Component {
    constructor(props) {
      super(props); 
@@ -10,11 +11,13 @@ class App extends React.Component {
    render() {
     return (
       <div>
+        <PhotoView props={'somePhoto'} />
         Hello! :-)
-        <PhotoEntry props={} />
+        <PhotoEntry props={'hello'} />
       </div>
       );
    }
-}
+} 
 
 window.App = App;
+*/
